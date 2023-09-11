@@ -1,0 +1,10 @@
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Database file
+db.sqlite3
+
+# Django settings with secrets
+oauth_salesforce_project/oauth_salesforce_project/settings.py
